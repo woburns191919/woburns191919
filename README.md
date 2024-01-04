@@ -2,7 +2,6 @@
 
 I'm a Software Engineer with a unique background in Literature. I have a PhD in Literature with a Creative Dissertation and a rich experience in teaching English at the university level. Recently, I've transitioned into the tech world, combining my storytelling skills with programming to create compelling and innovative software solutions.
 
-## 🚀 Languages and Tools
 
 ## 🚀 Languages and Tools
 
@@ -11,7 +10,7 @@ I'm a Software Engineer with a unique background in Literature. I have a PhD in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="32" width="32" style="color:white; padding:2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
