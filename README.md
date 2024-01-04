@@ -17,7 +17,7 @@ I'm a Software Engineer with a unique background in Literature. I have a PhD in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" height="32" width="32" style="background-color:white; padding:2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="32" width="32" style="background-color:white; padding:2px;"/>
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png' height='32' width='32'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
 </p>
