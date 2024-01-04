@@ -1,7 +1,7 @@
 # Hi, I'm Will Burns!
 
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+      
           
 
 I'm a Software Engineer with a unique background in Literature. I have a PhD in Literature with a Creative Dissertation and a rich experience in teaching English at the university level. Recently, I've transitioned into the tech world, combining my storytelling skills with programming to create compelling and innovative software solutions.
@@ -10,10 +10,7 @@ I'm a Software Engineer with a unique background in Literature. I have a PhD in 
 ## 🚀 Languages and Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
-  
-  <i class="devicon-sqlalchemy-original-wordmark"></i>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32" style="background-color:white; padding:2px;"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" width="32" style="background-color:white; padding:2px;"/>
