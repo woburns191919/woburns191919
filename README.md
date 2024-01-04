@@ -7,8 +7,9 @@ I have experience with a range of technologies in software development, particul
 
 Languages:
 
-  JavaScript
-  React
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+
   Redux
 
 Technologies
