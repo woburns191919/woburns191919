@@ -3,24 +3,25 @@
 I'm a Software Engineer with a unique background in Literature. I have a PhD in Literature with a Creative Dissertation and a rich experience in teaching English at the university level. Recently, I've transitioned into the tech world, combining my storytelling skills with programming to create compelling and innovative software solutions.
 
 ## 🚀 Skills and Technologies
-I have experience with a range of technologies in software development, particularly in full-stack web development. Here are some of the technologies I work with:
+I have experience with a range of technologies in software development, particularly in full-stack web development. 
 
-- **Frontend**: 
-  - JavaScript
-  - React
-  - Redux
+Languages:
 
-- **Backend**:
+  JavaScript
+  React
+  Redux
+
+Technologies
   - Flask
   - Express
   - SQLAlchemy
   - Sequelize
 
-- **Database**:
+
   - SQLite
   - PostgreSQL
 
-- **Others**:
+
   - Docker
   - Git
   - GitHub
