@@ -13,7 +13,7 @@ Languages:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
 
 
-Technologies
+Technologies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40" alt="Flask" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
@@ -21,47 +21,7 @@ Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" />
 </p>
 
-<div class="container">
-			<div class="row aln-center">
-					<div class="col-4 col-12-small">
-							<i class="devicon-javascript-plain colored"></i>
-					</div>
-					<div class="col-4 col-12-small">
-							<i class="devicon-react-original-wordmark colored"></i>
-					</div>
-					<div class="col-4 col-12-small">
-            <i class="devicon-python-plain-wordmark"></i>
-					</div>
-					<div class="col-4 col-12-small">
-							<i class="devicon-redux-plain colored"></i>
-					</div>
-					<div class="col-4 col-12-small">
-							<i class="devicon-flask-original-wordmark colored"></i>
-					</div>
-					<div class="col-4 col-12-small">
-            <i class="devicon-sqlalchemy-plain colored"></i>
-					</div>
-					<div class="col-4 col-12-small">
-            <i class="devicon-sequelize-plain-wordmark colored"></i>
-					</div>
-					<div class="col-4 col-12-small">
-            <i class="devicon-express-original-wordmark colored"></i>
-					</div>
-					<div class="col-4 col-12-small">
-            <i class="devicon-git-plain-wordmark"></i>
-					</div>
-					<div class="col-4 col-12-small">
-            <i class="devicon-github-original-wordmark"></i>
-					</div>
-					<div class="col-4 col-12-small">
-            <i class="devicon-sqlite-plain-wordmark colored"></i>
-					</div>
-					<div class="col-4 col-12-small">
-            <i class="devicon-postgresql-plain-wordmark colored"></i>
-					</div>
-					<div class="col-4 col-12-small">
-            <i class="devicon-docker-plain-wordmark colored"></i>
-					</div>
+
 
 ## 📌 Highlighted Projects
 Here are some projects that I've worked on. Feel free to check them out:
