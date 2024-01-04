@@ -4,7 +4,7 @@ I'm a Software Engineer with a unique background in Literature. I have a PhD in 
 
 ## 🚀 Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=4em width=4em/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=14em width=14em/>
           
 
 
