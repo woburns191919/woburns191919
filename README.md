@@ -30,8 +30,8 @@ I'm a Software Engineer with a unique background in Literature. I have a PhD in 
 ## 📌 Highlighted Projects
 Here are some projects that I've worked on. Feel free to check them out:
 
-- [Slick Spots](https://slick-spots.onrender.com) - A full-stack web application that mirrors core functionalities of AirBnb.
-- [Ask a Master](https://ask-a-master.onrender.com/login) - A full-stack project imitating Quora's functionalities. 
+- [Slick Spots](https://slick-spots-ckqs.onrender.com) - A full-stack web application that mirrors core functionalities of AirBnb.
+- [Ask a Master](https://ask-a-master-o632.onrender.com) - A full-stack project imitating Quora's functionalities. 
 
 ## 📖 My Journey
 I bring a unique blend of storytelling and coding to the tech world. My journey from a Literature PhD to a Software Engineer has been both challenging and exhilarating. I'm particularly interested in projects where I can blend my background in literature and teaching with my newfound skills in programming.
